@@ -11,9 +11,9 @@ This this a basic HTTP server written in Golang using Go's standard library.
 ## To do list :
  - [x] Basic HTTP server working
  - [x] Basic HTML rendering function
- - [] Image server part for pages
- - [] Multiple Routes
- - [] YAML Routes creation and configurations
- - [] Better error handling
+ - [ ] Image server part for pages
+ - [ ] Multiple Routes
+ - [ ] YAML Routes creation and configurations
+ - [ ] Better error handling
  -
 
